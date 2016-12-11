@@ -1,0 +1,16 @@
+.thread_status { display: inline-block; width: 10px; } 
+.thread_status:after { font-family: "FontAwesome"; content: "\f005"; font-size: 17px; color: #2c82c9; } 
+[class*="hot"]:after { color: #fc6042; content: "\f06d"; padding-left: 1px; }
+[class*="new"]:after { color: #a19c69; } 
+[class*="lockfolder"]:after { color: #777; content: "\f023"; padding-left: 2px; }
+.thread_status.dot_folder { background-position: 0 0;}
+.thread_status.dot_hotfolder { background-position: 0 -20px; }
+.thread_status.dot_hotlockfolder { background-position: 0 -40px; }
+.thread_status.dot_lockfolder { background-position: 0 -60px; }
+.thread_status.dot_newfolder { background-position: 0 -80px;}
+.thread_status.dot_newhotfolder { background-position: 0 -100px;}
+.thread_status.dot_newhotlockfolder { background-position: 0 -120px;}
+.thread_status.dot_newlockfolder { background-position: 0 -140px;}
+
+		
+		

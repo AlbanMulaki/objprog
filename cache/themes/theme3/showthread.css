@@ -1,0 +1,93 @@
+ul.thread_tools,
+ul.thread_tools li {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+ul.thread_tools li {
+	padding-left: 24px;
+	padding-bottom: 4px;
+	margin-bottom: 3px;
+	font-size: 11px;
+	background-image: url(../../../images/showthread_sprite.png);
+	background-repeat: no-repeat;
+}
+
+ul.thread_tools li.printable {
+	background-position: 0 0;
+}
+
+ul.thread_tools li.sendthread {
+	background-position: 0 -20px;
+}
+
+ul.thread_tools li.subscription_add {
+	background-position: 0 -40px;
+}
+
+ul.thread_tools li.subscription_remove {
+	background-position: 0 -60px;
+}
+
+ul.thread_tools li.poll {
+	background-position: 0 -80px;
+}
+
+.showthread_spinner {
+	width: 100%;
+	margin: 0 auto;
+	display: block;
+	text-align: center;
+	padding: 20px;
+}
+
+.post .post_author {
+    padding: 15px;
+    overflow: hidden;
+    background: #405972;
+}
+
+.post.classic .post_author {
+    float: left;
+    width: 17%;
+    margin-left: 10px;
+	background: transparent !important;
+}
+
+.post.classic {
+    padding-top: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.post.classic .post_author div.author_statistics {
+    border-top: 1px solid #537393;
+    margin: 6px 0 0 0;
+    padding: 6px 6px 3px 6px;
+    float: none;
+    text-align: center;
+}
+
+.post .post_meta {
+    margin: 4px 0;
+    font-size: 11px;
+    color: #999;
+    padding: 3px;
+    border-top: 1px solid #e6e6e6;
+}
+
+.post .post_head {
+    font-size: 11px;
+    padding: 4px 5px 4px 10px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #e6e6e6;
+}
+	
+		
+		
+		
+		
+		
+		
+		

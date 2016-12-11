@@ -1,0 +1,13 @@
+Hello there!
+
+Before you start installing my theme you should open the documentation.html file by double clicking it and follow the listed instructions.
+I hope that I have included everything you need to install and set up my theme sucessfully! 
+
+So, if you have followed the installation guide and installed/configured my theme sucessfully but encountered any bugs still, having problems, or something else then feel free to contact me.
+You can contact me by posting into the thread I've created, or send me a private message if needed. I'm gonna try helping/assisting you as soon and good as I can.
+
+But you can also post your concerns into the Theme Support section of course.
+
+
+ http://community.mybb.com/forum-104.html	(Theme Release)
+ http://community.mybb.com/forum-10.html	(Theme Support)
